@@ -1,0 +1,35 @@
+{
+
+    // "terminal.integrated.defaultProfile.windows": "Ubuntu (WSL)",
+    
+    // "editor.glyphMargin": false,
+    "editor.guides.bracketPairs": "active",
+    "editor.guides.bracketPairsHorizontal": true,
+    "editor.guides.highlightActiveBracketPair": false,
+    "editor.overviewRulerBorder": false,
+
+    /* Cursor */
+    // "editor.smoothScrolling": true,
+    "editor.cursorBlinking": "smooth",
+
+    /* Minimap */
+    "editor.minimap.scale": 3,
+    "editor.minimap.autohide": true,
+
+    /* Actions on save */
+    // "files.trimTrailingWhitespace": true,
+    // "files.trimFinalNewlines": true,
+
+    /* Autosave */
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 64000,
+
+    /* Ruler */
+    "editor.rulers": [80],
+    "workbench.colorCustomizations": {
+        "editorRuler.foreground": "#3c3838"
+    },
+    "redhat.telemetry.enabled": false,
+    "vim.smartRelativeLine": true
+
+}
